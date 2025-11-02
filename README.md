@@ -8,8 +8,9 @@
 
 <br/>
 
-<!-- Animated GIF or Profile Image -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTk3YzVxOTM3MzJkZGQ3MmU3YTEzY2Y4ZjgyN2VlMGQ1NjVkZWQ0ZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation"/>
+<!-- Lottie Animation -->
+<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+<lottie-player src="https://lottie.host/embed/99a21862-e3aa-42be-b51b-b2534828e5a4/ULTbOserSj.lottie" background="transparent" speed="1" style="width: 400px; height: 400px;" loop autoplay></lottie-player>
 
 </div>
 
