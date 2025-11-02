@@ -1,14 +1,14 @@
 # Juzt Dev
 
-**Full Stack Developer**  
+**Full Stack Desginer|Building Tech Product**  
 Building scalable apps, learning AI/ML, and loving clean code.
 
 ---
 
 ## About Me
 
-- **Location:** 🌍 Anywhere
-- **Languages:** JavaScript, TypeScript, Python, Java, C++
+- **Location:** Vietnam
+- **Languages:** JavaScript, TypeScript,...
 - **Current Focus:** Scalable applications & AI/ML
 - **Fun Fact:** I debug with `console.log()` and I'm proud of it!
 
@@ -19,16 +19,12 @@ Building scalable apps, learning AI/ML, and loving clean code.
 <!-- Languages -->
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 <!-- Frontend -->
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
@@ -36,14 +32,11 @@ Building scalable apps, learning AI/ML, and loving clean code.
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
 <!-- Databases -->
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
 <!-- DevOps & Tools -->
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -77,7 +70,7 @@ Building scalable apps, learning AI/ML, and loving clean code.
 - [GitHub](https://github.com/juzt-dev)
 - [LinkedIn](https://linkedin.com/in/juzt-dev)
 - [Twitter](https://twitter.com/juzt_dev)
-- [Email](mailto:contact@juztdev.com)
+- [Email](mailto:peter.2709@icloud.com)
 - [Portfolio](https://juztdev.com)
 
 ---
@@ -90,7 +83,7 @@ Building scalable apps, learning AI/ML, and loving clean code.
 
 ## When I'm Not Coding
 
-Listening to music, gaming, reading tech blogs, enjoying coffee, and fitness.
+Listening to music, gaming, reading tech blogs, enjoying coffee, and fitness but actualy, i go to sleep 
 
 ---
 
