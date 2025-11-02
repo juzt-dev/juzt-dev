@@ -1,4 +1,4 @@
-# Juzt Dev
+# Peter Ho | Aka Juzt
 
 **Full Stack Desginer|Building Tech Product**  
 Building scalable apps, learning AI/ML, and loving clean code.
