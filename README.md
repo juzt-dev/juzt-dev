@@ -193,6 +193,7 @@ mindmap
 <!-- Snake Animation -->
 <div align="center">
   
+<!-- Note: The snake animation will appear after the first GitHub Actions workflow run -->
 ![Snake animation](https://raw.githubusercontent.com/juzt-dev/juzt-dev/output/github-contribution-grid-snake-dark.svg)
 
 </div>
