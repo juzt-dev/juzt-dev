@@ -53,7 +53,7 @@ Building scalable apps, learning AI/ML, and loving clean code.
 
 |  |  |  |
 |:-:|:-:|:-:|
-| ![Stats](https://github-readme-stats.vercel.app/api?username=juzt-dev&show_icons=true&theme=default&hide_border=true) | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=juzt-dev&theme=default&hide_border=true) | ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juzt-dev&layout=compact&theme=default&hide_border=true) |
+|![Juzt-dev's Stats](https://github-readme-stats.vercel.app/api?username=Juzt-dev&theme=highcontrast&show_icons=true&hide_border=false&count_private=false)|![Juzt-dev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Juzt-dev&theme=highcontrast&hide_border=false)|![Juzt-dev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Juzt-dev&theme=highcontrast&show_icons=true&hide_border=false&layout=compact)|
 
 ---
 
