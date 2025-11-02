@@ -67,12 +67,23 @@ Building scalable apps, learning AI/ML, and loving clean code.
 
 ## Connect
 
-- [GitHub](https://github.com/juzt-dev)
-- [LinkedIn](https://linkedin.com/in/juzt-dev)
-- [Twitter](https://twitter.com/juzt_dev)
-- [Email](mailto:peter.2709@icloud.com)
-- [Portfolio](https://juztdev.com)
-
+<p>
+  <a href="https://github.com/juzt-dev">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://linkedin.com/in/juzt-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/juzt_dev">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="mailto:contact@juztdev.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://juztdev.com">
+    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=flat&logo=firefox&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
 ---
 
 ## Dev Quote
