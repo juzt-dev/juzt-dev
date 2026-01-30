@@ -1,7 +1,15 @@
 # Peter Ho | Aka Juzt
 
-**Full Stack Desginer|Building Tech Product**  
-Building scalable apps, learning AI/ML, and loving clean code.
+<!-- Animated Typing SVG -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=440&lines=Hi+there!+I'm+Peter+%F0%9F%91%8B;Passionate+about+Buiding+Designing%F0%9F%92%BB;Building+Amazing+Things+%F0%9F%9A%80;Always+Learning+New+Tech+%F0%9F%93%9A" alt="Typing SVG" /></a>
+
+<br/>
+
+<!-- Lottie Animation -->
+<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+<lottie-player src="https://lottie.host/embed/99a21862-e3aa-42be-b51b-b2534828e5a4/ULTbOserSj.lottie" background="transparent" speed="1" style="width: 400px; height: 400px;" loop autoplay></lottie-player>
+
+</div>
 
 ---
 
