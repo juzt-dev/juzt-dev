@@ -4,13 +4,14 @@
 </p>
 
 <p align="center">
-  <a href="https://juztdev.com">
+  <a href="https://peterhoo.com">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=600&lines=%3E+design+%E2%86%92+code+%E2%86%92+ship;%3E+pixels+in+Figma%2C+types+in+TypeScript;%3E+building+products+with+AI+agents;%3E+console.log()+is+a+debugger.+fight+me." alt="Typing intro"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://juztdev.com"><img src="https://img.shields.io/badge/juztdev.com-1A1B27?style=for-the-badge&logo=googlechrome&logoColor=7AA2F7" alt="Portfolio"/></a>
+  <a href="https://peterhoo.com"><img src="https://img.shields.io/badge/peterhoo.com-1A1B27?style=for-the-badge&logo=googlechrome&logoColor=7AA2F7" alt="Personal website"/></a>
+  <a href="https://ciuslabs.com"><img src="https://img.shields.io/badge/Ciuslabs-1A1B27?style=for-the-badge&logo=rocket&logoColor=7AA2F7" alt="Ciuslabs"/></a>
   <a href="https://linkedin.com/in/juzt-dev"><img src="https://img.shields.io/badge/LinkedIn-1A1B27?style=for-the-badge&logo=linkedin&logoColor=7AA2F7" alt="LinkedIn"/></a>
   <a href="https://x.com/juzt_dev"><img src="https://img.shields.io/badge/X-1A1B27?style=for-the-badge&logo=x&logoColor=7AA2F7" alt="X"/></a>
   <a href="https://instagram.com/juztchuo"><img src="https://img.shields.io/badge/Instagram-1A1B27?style=for-the-badge&logo=instagram&logoColor=7AA2F7" alt="Instagram"/></a>
@@ -26,6 +27,8 @@ const juzt = {
   name:      "Peter Ho",
   alias:     "Juzt",
   role:      "Full Stack Designer",
+  company:   "Ciuslabs",          // ciuslabs.com
+  website:   "peterhoo.com",
   location:  "Vietnam 🇻🇳",
   mindset:   "If I design it, I ship it.",
 
