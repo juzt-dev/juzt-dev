@@ -1,109 +1,120 @@
-# Peter Ho | Aka Juzt
+<!-- ───────────────────────────── HEADER ───────────────────────────── -->
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A1B27,100:7AA2F7&height=200&section=header&text=JUZT&fontSize=80&fontColor=C0CAF5&fontAlignY=38&desc=Peter%20Ho%20%E2%80%94%20Full%20Stack%20Designer&descSize=18&descAlignY=60&descColor=7AA2F7&animation=fadeIn" alt="JUZT"/>
+</p>
 
-**Full Stack Desginer|Building Tech Product**  
-Building scalable apps, learning AI/ML, and loving clean code.
-
----
-
-## About Me
-
-- **Location:** Vietnam
-- **Languages:** JavaScript, TypeScript,...
-- **Current Focus:** Scalable applications & AI/ML
-- **Fun Fact:** I debug with `console.log()` and I'm proud of it!
-
----
-
-## Tech Stack
-
-<!-- Languages -->
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-<!-- Frontend -->
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-
-<!-- Backend -->
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-
-<!-- Databases -->
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-<!-- DevOps & Tools -->
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-
----
-
-## GitHub Stats
-
-|  |  |  |
-|:-:|:-:|:-:|
-|![Juzt-dev's Stats](https://github-readme-stats.vercel.app/api?username=Juzt-dev&theme=highcontrast&show_icons=true&hide_border=false&count_private=false)|![Juzt-dev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Juzt-dev&theme=highcontrast&hide_border=false)|![Juzt-dev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Juzt-dev&theme=highcontrast&show_icons=true&hide_border=false&layout=compact)|
-
----
-
-## Current Focus
-
-- **Learning:** AI/ML, Cloud Architecture, System Design
-- **Building:** Open Source Projects, Web Applications, DevOps Tools
-- **Exploring:** New Technologies, Best Practices, Community Projects
-
----
-
-## Connect
-
-<p>
-  <a href="https://github.com/juzt-dev">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://linkedin.com/in/juzt-dev">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/juzt_dev">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="mailto:contact@juztdev.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+<p align="center">
   <a href="https://juztdev.com">
-    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=flat&logo=firefox&logoColor=white" alt="Portfolio"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=600&lines=%3E+design+%E2%86%92+code+%E2%86%92+ship;%3E+pixels+in+Figma%2C+types+in+TypeScript;%3E+building+products+with+AI+agents;%3E+console.log()+is+a+debugger.+fight+me." alt="Typing intro"/>
   </a>
 </p>
----
 
-## Dev Quote
+<p align="center">
+  <a href="https://juztdev.com"><img src="https://img.shields.io/badge/juztdev.com-1A1B27?style=for-the-badge&logo=googlechrome&logoColor=7AA2F7" alt="Portfolio"/></a>
+  <a href="https://linkedin.com/in/juzt-dev"><img src="https://img.shields.io/badge/LinkedIn-1A1B27?style=for-the-badge&logo=linkedin&logoColor=7AA2F7" alt="LinkedIn"/></a>
+  <a href="https://x.com/juzt_dev"><img src="https://img.shields.io/badge/X-1A1B27?style=for-the-badge&logo=x&logoColor=7AA2F7" alt="X"/></a>
+  <a href="mailto:contact@juztdev.com"><img src="https://img.shields.io/badge/Email-1A1B27?style=for-the-badge&logo=gmail&logoColor=7AA2F7" alt="Email"/></a>
+</p>
 
-> "Code is like humor. When you have to explain it, it's bad." – Cory House
+<!-- ───────────────────────────── WHOAMI ───────────────────────────── -->
 
----
+```ts
+// ~/juzt-dev/whoami.ts
 
-## When I'm Not Coding
+const juzt = {
+  name:      "Peter Ho",
+  alias:     "Juzt",
+  role:      "Full Stack Designer",
+  location:  "Vietnam 🇻🇳",
+  mindset:   "If I design it, I ship it.",
 
-Listening to music, gaming, reading tech blogs, enjoying coffee, and fitness but actualy, i go to sleep 
+  stack: {
+    design:   ["Figma", "Design Systems", "Motion"],
+    frontend: ["TypeScript", "React", "Next.js", "TailwindCSS"],
+    backend:  ["Node.js", "NestJS", "Express"],
+    data:     ["PostgreSQL", "MongoDB", "MySQL"],
+    infra:    ["Docker", "Kubernetes", "AWS"],
+  },
 
----
+  building:  ["web products", "e-commerce automation", "AI-powered dev tools"],
+  learning:  ["AI/ML", "cloud architecture", "system design"],
 
-<!-- Profile views counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=juzt-dev&color=blueviolet&style=flat&label=PROFILE+VIEWS)
+  debugger:  "console.log()",   // and proud of it
+  fuel:      ["☕ coffee", "🎧 music", "😴 sleep (mostly sleep)"],
+} as const;
+```
 
-<!-- Snake animation -->
-![Snake animation](https://raw.githubusercontent.com/juzt-dev/juzt-dev/output/github-contribution-grid-snake-dark.svg)
+<!-- ───────────────────────────── PIPELINE ───────────────────────────── -->
 
----
+## `$ cat ./how-i-work.md`
 
-**Thanks for visiting! Let's build something amazing together!**
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🎨 Design</h3>
+      Start in Figma. Components, tokens and flows first — so the code has a system to follow, not a screenshot to copy.
+    </td>
+    <td width="33%" valign="top">
+      <h3>⌨️ Build</h3>
+      Type-safe full stack with TypeScript end to end: React / Next.js on the front, Node / NestJS behind it.
+    </td>
+    <td width="33%" valign="top">
+      <h3>🚀 Ship</h3>
+      Containerised, automated and in front of real users. Then measure, iterate, and let AI agents handle the boring parts.
+    </td>
+  </tr>
+</table>
+
+<!-- ───────────────────────────── STACK ───────────────────────────── -->
+
+## `$ ls ./toolbox`
+
+<p align="center">
+  <b>Design &amp; Frontend</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=figma,ts,js,react,nextjs,tailwind,html,css,bootstrap&theme=dark" alt="Design and frontend"/>
+</p>
+
+<p align="center">
+  <b>Backend &amp; Data</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,postgres,mongodb,mysql&theme=dark" alt="Backend and data"/>
+</p>
+
+<p align="center">
+  <b>Infra &amp; Workflow</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github,githubactions,vscode,postman&theme=dark" alt="Infra and workflow"/>
+</p>
+
+<!-- ───────────────────────────── STATS ───────────────────────────── -->
+
+## `$ git log --stat`
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=juzt-dev&theme=tokyonight&hide_border=true&bg_color=0D1117&show_icons=true&count_private=true&include_all_commits=true" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juzt-dev&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact&langs_count=8" alt="Top languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=juzt-dev&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak"/>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juzt-dev/juzt-dev/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/juzt-dev/juzt-dev/output/github-contribution-grid-snake.svg"/>
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/juzt-dev/juzt-dev/output/github-contribution-grid-snake-dark.svg"/>
+  </picture>
+</p>
+
+<!-- ───────────────────────────── FOOTER ───────────────────────────── -->
+
+<p align="center">
+  <i>"Code is like humor. When you have to explain it, it's bad." — Cory House</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=juzt-dev&color=7AA2F7&style=flat-square&label=visitors" alt="Profile views"/>
+</p>
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,50:1A1B27,100:0D1117&height=110&section=footer&text=let's%20build%20something.&fontSize=22&fontColor=C0CAF5&fontAlignY=70" alt="Footer"/>
+</p>
