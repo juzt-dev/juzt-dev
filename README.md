@@ -13,7 +13,8 @@
   <a href="https://juztdev.com"><img src="https://img.shields.io/badge/juztdev.com-1A1B27?style=for-the-badge&logo=googlechrome&logoColor=7AA2F7" alt="Portfolio"/></a>
   <a href="https://linkedin.com/in/juzt-dev"><img src="https://img.shields.io/badge/LinkedIn-1A1B27?style=for-the-badge&logo=linkedin&logoColor=7AA2F7" alt="LinkedIn"/></a>
   <a href="https://x.com/juzt_dev"><img src="https://img.shields.io/badge/X-1A1B27?style=for-the-badge&logo=x&logoColor=7AA2F7" alt="X"/></a>
-  <a href="mailto:contact@juztdev.com"><img src="https://img.shields.io/badge/Email-1A1B27?style=for-the-badge&logo=gmail&logoColor=7AA2F7" alt="Email"/></a>
+  <a href="https://instagram.com/juztchuo"><img src="https://img.shields.io/badge/Instagram-1A1B27?style=for-the-badge&logo=instagram&logoColor=7AA2F7" alt="Instagram"/></a>
+  <a href="mailto:peter@ciuslabs.com"><img src="https://img.shields.io/badge/Email-1A1B27?style=for-the-badge&logo=gmail&logoColor=7AA2F7" alt="Email"/></a>
 </p>
 
 <!-- ───────────────────────────── WHOAMI ───────────────────────────── -->
